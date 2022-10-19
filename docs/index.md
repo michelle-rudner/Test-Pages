@@ -24,6 +24,7 @@ nav_order: 1
   
   Time for some images babbyyyyyy
   ![Imported image](https://www.befunky.com/images/prismic/b60244c7-087b-409a-961b-831999aa5085_llama.jpg?auto=avif,webp&format=jpg&width=1920&height=1920&fit=bounds)
+  hello
  ![Relative image](images.jpg)
   
   Link time-You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut Command+K to create a link. When you have text selected, you can paste a URL from your clipboard to automatically create a link from the selection.You can also create a Markdown hyperlink by highlighting the text and using the keyboard shortcut Command+V. If you'd like to replace the text with the link, use the keyboard shortcut Command+Shift+V.
